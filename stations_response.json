@@ -1,0 +1,39 @@
+{
+  "results": [
+    {
+    "id": "9DAC21A8-F31E-469C-AB5D-AEDDBFDE8068",
+    "name": "Jet Berlin Kreuzbergstr. 42A",
+    "lat": 52.520008,
+    "lng": 13.404954,
+    "brand_id": null
+    },
+    {
+    "id": "D1CD2823-B686-4C86-BB45-2D3206629757",
+    "name": "Esso Tankstelle Berlin",
+    "lat": 52.525000,
+    "lng": 13.412754,
+    "brand_id": "Esso"
+    },
+    {
+    "id": "197F115C-D86F-435C-B228-D6938C81B795",
+    "name": "Jet Berlin",
+    "lat": 52.530008,
+    "lng": 13.410954,
+    "brand_id": "Jet"
+    },
+    {
+    "id": "FB13551A-DF2B-409D-85C9-20EB22F96B79",
+    "name": "Aral Tankstelle",
+    "lat": 52.529208,
+    "lng": 13.402254,
+    "brand_id": "Aral"
+    },
+    {
+    "id": "F6147D95-9B76-4BE3-9BEB-B634A58B2381",
+    "name": "Jet Berlin",
+    "lat": 52.520328,
+    "lng": 13.392954,
+    "brand_id": "Jet"
+    }
+  ]
+}
